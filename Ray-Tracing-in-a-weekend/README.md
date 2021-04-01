@@ -1,6 +1,6 @@
-# Ray Tracing in a Weekend
+# [Ray Tracing in a Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 
-## Chapter 1 : Output a image 
+## 2. Output a image 
 
 It gives an example of [PPM format file](http://netpbm.sourceforge.net/doc/ppm.html) about how to output images.
 
