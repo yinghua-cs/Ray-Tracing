@@ -7,4 +7,4 @@
    "Preview" in Mac can view this type of images.
    > Warning: The beginning of PPM file is P3 (or P6) with upper case P, not lower case p.
 
-   [[code](https://github.com/yinghua-cs/Ray-Tracing/blob/main/Ray-Tracing-in-a-weekend/PPMexample.cpp)]  [[output image](https://github.com/yinghua-cs/Ray-Tracing/blob/main/Ray-Tracing-in-a-weekend/rgb.ppm)]
+   [[code](https://github.com/yinghua-cs/Ray-Tracing/blob/main/Ray-Tracing-in-a-weekend/main.cpp)]  [[output image](https://github.com/yinghua-cs/Ray-Tracing/blob/main/Ray-Tracing-in-a-weekend/image.ppm)]
