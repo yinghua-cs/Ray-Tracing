@@ -1,4 +1,4 @@
-# [Ray Tracing in a Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
+# [Ray Tracing in a Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html) (by Peter Shirley)
 
 * ## Output a image 
 
