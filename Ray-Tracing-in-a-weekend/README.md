@@ -13,9 +13,9 @@
 
 * ## The vec3 Class
 
-   Introducing the [[vec3 class](https://github.com/yinghua-cs/Ray-Tracing/blob/main/Ray-Tracing-in-a-weekend/vec3.h)]. It can represent x, y, z for point, or red (r), green (g), blue (b) for color. 
+   Introducing the [vec3 class](https://github.com/yinghua-cs/Ray-Tracing/blob/main/Ray-Tracing-in-a-weekend/vec3.h). It can represent x, y, z for point, or red (r), green (g), blue (b) for color. 
 
-   code: [[vec3.h](https://github.com/yinghua-cs/Ray-Tracing/blob/main/Ray-Tracing-in-a-weekend/vec3.h), [color.h](https://github.com/yinghua-cs/Ray-Tracing/blob/main/Ray-Tracing-in-a-weekend/color.h)]
+   *code:* [[vec3.h](https://github.com/yinghua-cs/Ray-Tracing/blob/main/Ray-Tracing-in-a-weekend/vec3.h), [color.h](https://github.com/yinghua-cs/Ray-Tracing/blob/main/Ray-Tracing-in-a-weekend/color.h)]
 
 
 
