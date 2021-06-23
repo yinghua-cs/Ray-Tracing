@@ -1,5 +1,5 @@
 //  vec3.h -- definitions of class vec3.
-//  - 3.4 Variables and Methods, Ray Tracing in One Weekend, Version 3.2.3, 2020-12-07, by Peter Shirley.
+//  - 3.1 Variables and Methods, Ray Tracing in One Weekend, Version 3.2.3, 2020-12-07, by Peter Shirley.
 // 
 //  Created by Yinghua Han on 04/19/2021.
 //  Copyright © 2021 Yinghua Han. All rights reserved.
